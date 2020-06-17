@@ -16,8 +16,9 @@ My “GNU+Linux” --*I use Manjaro, btw*-- dotfiles.
 
 ## FISH
 
-<img alt="My fish prompt" src="./img/fish_prompt.png" style="width:100%" />
-<center><small>My custom FISH prompt, with Git support</small></center>
+<img alt="My fish prompt" src="./img/fish_prompt.png" style="width:50%;float:left;padding:0 20px 20px 0" />
+
+<!--<center><small>My custom FISH prompt, with Git support</small></center>-->
 
 I don't care about being *POSIX compliant*, I like to be functional -- that's
 why I use FISH, cause it's awesome out-of-the-box: with syntax highlighting,
